@@ -1,10 +1,10 @@
 # FindRestaurant
 APP for android Plataform
 
-#DiagramaDeClasses
+# DiagramaDeClasses
 ![Diagrama](https://github.com/Cesargardellim/FindRestaurant/Images/DiagramaDeClasses.jpg)
 
-#Telas
+# Telas
 
 ![Tela 1](https://github.com/Cesargardellim/FindRestaurant/Images/1.jpg)
 ![Tela 2](https://github.com/Cesargardellim/FindRestaurant/Images/2.jpg)
