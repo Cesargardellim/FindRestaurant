@@ -2,12 +2,12 @@
 APP for android Plataform
 
 # DiagramaDeClasses
-![Diagrama](https://github.com/Cesargardellim/FindRestaurant/tree/master/Images/DiagramadeClasses.jpeg)
+<img src="./Images/DiagramaDeClasses.jpeg" width="200px" />
+
 
 # Telas
-<img src="./Images/1.jpeg" width="100px" />
-![Telas](https://github.com/Cesargardellim/FindRestaurant/tree/master/Images/1.jpeg)
-![Telas](https://github.com/Cesargardellim/FindRestaurant/tree/master/Images/2.jpeg)
-![Telas](https://github.com/Cesargardellim/FindRestaurant/tree/master/Images/3.jpeg)
-![Telas](https://github.com/Cesargardellim/FindRestaurant/tree/master/Images/Maps.jpeg)
-![Telas](https://github.com/Cesargardellim/FindRestaurant/tree/master/Images/Navigation.jpeg)
+<img src="./Images/1.jpeg" width="200px" />
+<img src="./Images/2.jpeg" width="200px" />
+<img src="./Images/3.jpeg" width="200px" />
+<img src="./Images/Maps.jpeg" width="200px" />
+<img src="./Images/Navigation.jpeg" width="200px" />
